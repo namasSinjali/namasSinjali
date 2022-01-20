@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @namasSinjali
 - 👀 I’m interested in web development
-- 🌱 I’m currently learning javascript framework
+- 🌱 I’m currently learning svelte and js frameworks
 - 💞️ I’m looking to collaborate on any front-end projects
 - 📫 How to reach me: namas22thapa@gmail.com
 
